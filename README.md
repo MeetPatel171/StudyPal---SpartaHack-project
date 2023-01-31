@@ -1,2 +1,3 @@
 # StudyPal---SpartaHack-project
 A group study matchmaking web app, designed that connect college students who want to study together with advanced algorithm that takes into account factors such as class schedules, study habits, and coursework, as well as a questionnaire to pair students or place them in groups.
+We built StudyPal using a combination of web development technologies such as HTML, CSS, and JavaScript, as well as a backend database via Firebase controlled by Python (the backend server) to store user information and run the matchmaking algorithm to pair students. and communicate the matches.
