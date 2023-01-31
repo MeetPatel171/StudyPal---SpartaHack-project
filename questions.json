@@ -1,0 +1,25 @@
+[{
+    "type": "multiple_choice",
+    "question": "When do you usually start studying for important tests ",
+    "options": ["Weeks before (2+)", "The week of", "A few days before", "The night before", "Don't study at all"],
+    "importance": 6
+},
+{
+    "type": "boolean",
+    "question": "Are you a morning person",
+    "options": ["Yes", "No"],
+    "importance": 10
+},
+{
+    "type": "range",
+    "question": "Desired GPA",
+    "min": 0,
+    "max": 4
+},
+{
+    "type": "search_fr",
+    "question": "What classes are you in?",
+    "importance": 10
+}
+
+]
